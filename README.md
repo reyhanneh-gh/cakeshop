@@ -1,1 +1,5 @@
-# cakeshop
+- [Online demo](https://joyful-beijinho-cb2484.netlify.app/) 🪄
+- demo website for a cake shop, using HTML and CSS.
+- Developed By: Reyhaneh Ghalambor
+- Jun 14 - 2025
+- Master: Parsa Ghorbanian
